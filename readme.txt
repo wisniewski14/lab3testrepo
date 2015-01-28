@@ -6,5 +6,7 @@ This is a README.
 
 This DID cause a merge conflict
 But I fixed it.
+Jesse Wisniewski
+
 Partner: Stephen Rowell
 
