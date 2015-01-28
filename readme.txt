@@ -4,4 +4,7 @@ This is a README.
 
 (edited in master after branching)
 
-This might cause a merge conflict
+This DID cause a merge conflict
+But I fixed it.
+Partner: Stephen Rowell
+
